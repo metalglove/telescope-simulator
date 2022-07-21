@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    'telescope-simulator-core',
+    'telescope-simulator-web'
+]
