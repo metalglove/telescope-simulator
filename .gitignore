@@ -1,2 +1,5 @@
 **/target
 **/Cargo.lock
+hygdata_test.csv
+hygdata_id_proper_xyz.csv
+hygdata_id_proper_xyz_only_named_stars.csv

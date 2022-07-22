@@ -7,4 +7,12 @@
   "[rust]": {
     "editor.defaultFormatter": "rust-lang.rust-analyzer",
   },
+  "cSpell.words": [
+    "arcminutes",
+    "arcseconds",
+    "chrono",
+    "datetime",
+    "fract",
+    "trunc"
+  ],
 }
